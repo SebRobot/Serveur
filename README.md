@@ -2,6 +2,7 @@
 
 Contient différents scripts de configuration pour un serveur DEBIAN avec une carte mère GIGABYTE H97N-WIFI.
 
+- [01/10/2015] Ajout de lvm.sh
 - [01/10/2015] Ajout de son.sh
 - [01/10/2015] Ajout de xbmc.sh
 - [30/09/2015] Ajout de update.sh
